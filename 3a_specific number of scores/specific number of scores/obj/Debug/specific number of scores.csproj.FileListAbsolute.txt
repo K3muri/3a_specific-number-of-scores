@@ -1,0 +1,14 @@
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\specific number of scores\specific number of scores\bin\Debug\specific number of scores.exe.config
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\specific number of scores\specific number of scores\bin\Debug\specific number of scores.exe
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\specific number of scores\specific number of scores\bin\Debug\specific number of scores.pdb
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\specific number of scores\specific number of scores\obj\Debug\specific number of scores.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\specific number of scores\specific number of scores\obj\Debug\specific number of scores.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\specific number of scores\specific number of scores\obj\Debug\specific number of scores.exe
+C:\Users\KEMURI\Desktop\assignment\ista 220\Exercise\Exercise 2A - Calculating Averages\specific number of scores\specific number of scores\obj\Debug\specific number of scores.pdb
+C:\Users\KEMURI\Desktop\the hub\specific number of scores\specific number of scores\bin\Debug\specific number of scores.exe.config
+C:\Users\KEMURI\Desktop\the hub\specific number of scores\specific number of scores\bin\Debug\specific number of scores.exe
+C:\Users\KEMURI\Desktop\the hub\specific number of scores\specific number of scores\bin\Debug\specific number of scores.pdb
+C:\Users\KEMURI\Desktop\the hub\specific number of scores\specific number of scores\obj\Debug\specific number of scores.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\the hub\specific number of scores\specific number of scores\obj\Debug\specific number of scores.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\the hub\specific number of scores\specific number of scores\obj\Debug\specific number of scores.exe
+C:\Users\KEMURI\Desktop\the hub\specific number of scores\specific number of scores\obj\Debug\specific number of scores.pdb
